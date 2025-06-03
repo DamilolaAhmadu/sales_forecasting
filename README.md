@@ -41,6 +41,10 @@ The project uses two main datasets:
 Clone this repository
 ```
 git clone https://github.com/DamilolaAhmadu/sales_forecasting.git
-``
-Install required packages:
+```
+
+## Install required packages
+```
+pip install statsmodels pandas numpy matplotlib seaborn
+```
 

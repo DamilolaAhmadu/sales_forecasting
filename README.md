@@ -1,7 +1,46 @@
+## Time Series Analysis Project
+# Overview
+This project demonstrates time series analysis techniques on sales data, combining sales records with product attributes to uncover insights and patterns. The analysis is performed using Python with popular data science libraries like Pandas, NumPy, StatsModels, and visualization tools like Matplotlib and Seaborn.
 
+Features
+Data loading and merging of sales records with product attributes
 
-There are stores are giving two type of promos such as radio, TV corresponding to promo1 and promo2 so that they want to increase their sales across Germany, Austria, and France. However, they don't have any idea about which promo is sufficient to do it. So, the impact of promos on their sales are important roles on their preference.
+Comprehensive exploratory data analysis (EDA)
 
-To define well-defined promo strategy, we once need to analysis data in terms of impacts of promos. In that case, since data is based on time series, we once referred to use  `time series decomposition`. After we decomposed `observed` data into `trend`, `seasonal`, and `residual` components, We exposed the impact of promos clearly to make a decision which promo is better in each country.
+Time series visualization and decomposition
 
-In addition, we used `Random Forest Regression` in this forecasting problem to boost our decision. 
+Statistical modeling and correlation analysis
+
+Feature engineering and normalization
+
+## Technologies Used
+1. Python 3.5
+2. Jupyter Notebook
+3. Pandas (Data manipulation)
+4. NumPy (Numerical computing)
+5. StatsModels (Statistical modeling)
+6. Matplotlib & Seaborn (Data visualization)
+
+## Data Sources
+The project uses two main datasets:
+1. sales.txt - Contains sales transaction records including:
+    - Country
+    - Article ID
+    - Sales quantities
+    - Pricing information
+    - Promotional flags
+    - Dates
+
+2. article_attributes.txt - Contains product metadata including:
+    - Product categories
+    - Cost information
+    - Style and sizing
+    - Color information (RGB values)
+
+## Installation
+Clone this repository
+```
+git clone https://github.com/DamilolaAhmadu/sales_forecasting.git
+``
+Install required packages:
+

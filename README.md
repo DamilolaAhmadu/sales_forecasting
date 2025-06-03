@@ -47,4 +47,3 @@ git clone https://github.com/DamilolaAhmadu/sales_forecasting.git
 ```
 pip install statsmodels pandas numpy matplotlib seaborn
 ```
-

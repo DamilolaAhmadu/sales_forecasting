@@ -7,7 +7,7 @@ Data loading and merging of sales records with product attributes
 
 Comprehensive exploratory data analysis (EDA)
 
-Time series visualization and decomposition
+Time series visualizations and decomposition
 
 Statistical modeling and correlation analysis
 

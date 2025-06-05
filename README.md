@@ -9,7 +9,7 @@ Comprehensive exploratory data analysis (EDA)
 
 Time series visualizations and decompositions
 
-Statistical modeling and correlation analysis
+Statistical modelling and correlation analysis
 
 Feature engineering and normalization
 

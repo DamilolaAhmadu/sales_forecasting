@@ -27,7 +27,7 @@ The project uses two main datasets:
     - Country
     - Article ID
     - Sales quantities
-    - Pricing information
+    - Pricing informations
     - Promotional flags
     - Dates
 

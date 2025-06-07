@@ -33,7 +33,7 @@ The project uses two main datasets:
 
 2. article_attributes.txt - Contains product metadata including:
     - Product categories
-    - Cost information
+    - Cost informations
     - Style and sizing
     - Color information (RGB values)
 

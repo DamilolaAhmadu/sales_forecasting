@@ -3,7 +3,7 @@
 This project demonstrates time series analysis techniques on sales data, combining sales records with product attributes to uncover insights and patterns. The analysis is performed using Python with popular data science libraries like Pandas, NumPy, StatsModels, and visualization tools like Matplotlib and Seaborn.
 
 Features
-Data loading and merging of sales records with product attributes
+Data loading and merging of sales records with products attributes
 
 Comprehensive exploratory data analysis (EDA)
 

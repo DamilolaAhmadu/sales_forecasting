@@ -11,7 +11,7 @@ Time series visualizations and decompositions
 
 Statistical modelling and correlation analysis
 
-Feature engineering and normalization
+Feature engineering and normalizations
 
 ## Technologies Used
 1. Python 3.5

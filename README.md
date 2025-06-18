@@ -31,7 +31,7 @@ The project uses two main datasets:
     - Promotional flags
     - Dates
 
-2. article_attributes.txt - Contains product metadata including:
+2. article_attributes.txt - Contains products metadata including:
     - Product categories
     - Cost informations
     - Style and sizing

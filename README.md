@@ -35,7 +35,7 @@ The project uses two main datasets:
     - Product categories
     - Cost informations
     - Style and sizing
-    - Color information (RGB values)
+    - Color informations (RGB values)
 
 ## Installation
 Clone this repository

@@ -22,7 +22,7 @@ Feature engineerings and normalizations
 6. Matplotlib & Seaborn (Data visualization)
 
 ## Data Sources
-The project uses two main datasets:
+This project uses two main datasets:
 1. sales.txt - Contains sales transaction records including:
     - Country
     - Article ID

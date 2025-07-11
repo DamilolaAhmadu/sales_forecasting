@@ -1,4 +1,4 @@
-## Time Series Analysis Project
+# Time Series Analysis Project
 # Overview
 This project demonstrates the time series analysis techniques on sales data, combining sales records with products attributes to uncover insights and patterns. The analysis is performed using Python with popular data science libraries like Pandas, NumPy, StatsModels, and visualization tools like Matplotlib and Seaborn.
 
